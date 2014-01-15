@@ -1,0 +1,17 @@
+body {
+  font-size: 20px;
+}
+#introduction {
+  color: gray;
+}
+#galleries li a {
+  color: green;
+}
+h1 {
+  color: magenta;
+}
+img {
+  border: 1px solid black;
+  margin: 10px;
+  float: left;
+}
